@@ -32,7 +32,8 @@ PRODUCT_PACKAGES += \
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := twrp_a40
 PRODUCT_DEVICE := a40
-PRODUCT_MODEL := SM-A405FN
+PRODUCT_MODEL := Galaxy_A40
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
+
